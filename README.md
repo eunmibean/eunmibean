@@ -14,8 +14,9 @@
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunmibean&layout=compact" />
 </a>
 
-- 🌱 공적인사적모임 IT팀 <sub>(2023.05 ~ 현재)</sub>
-- 🍽️ Eat It 프로젝트 <sub>(2023.03 ~ 현재)</sub>
+- 🏢 헥토이노베이션 <sub>(2023.09 ~ 2026.02)</sub>
+- 🌱 공적인사적모임 IT팀 <sub>(2023.05 ~ 2023.12)</sub>
+- 🍽️ Eat It 프로젝트 <sub>(2023.03 ~ 2023.09)</sub>
 - 🇪🇸 스페인 워킹홀리데이 <sub>(2022.07~2023.07)</sub>
 - 🏢 비바엔에스 자바 백엔드 개발자 <sub>(2020.09~2022.07)</sub>
 - 개인적인 관심 : 기후위기, 환경보호, 동물사랑 
